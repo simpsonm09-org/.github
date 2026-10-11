@@ -13,14 +13,14 @@ This organization holds the original repositories. Development happens in person
 ## AI development
 
 - [maxstack](https://github.com/simpsonm09-org/simpsonm09-maxstack) composes and installs the workspace AI layers for OpenCode, Claude Code, GitHub Copilot CLI, and Pi, used through T3 Code. The model is selected in the harness.
-- [org-ai-plugin](https://github.com/simpsonm09-org/simpsonm09-org-ai-plugin) supplies portable skills, integration guidance, and the shared agent-access gate.
 - The base layer comes from the [pstack-claude fork](https://github.com/simpsonm09/pstack-claude). The layer order is PStack, then the org layer, then the personal layer.
+- [org-ai-plugin](https://github.com/simpsonm09-org/simpsonm09-org-ai-plugin) supplies portable skills, integration guidance, and the shared agent-access gate.
+- [personal-ai-plugin](https://github.com/simpsonm09-org/simpsonm09-personal-ai-plugin) supplies personal preferences, skills, and integration guidance for services such as Discord and email.
 
 The current org and personal plugins use CLI integrations and contribute no MCP server.
 
 ## Personal integrations and homelab
 
-- [personal-ai-plugin](https://github.com/simpsonm09-org/simpsonm09-personal-ai-plugin) supplies personal preferences, skills, and integration guidance for services such as Discord and email.
 - [OpenClaw homelab](https://github.com/simpsonm09-org/simpsonm09-openclaw-homelab) holds configuration, validation, and deployment runbooks for a self-hosted AI gateway. It is currently a scaffold; it does not install or run OpenClaw.
 
 ## Workstation and machines
