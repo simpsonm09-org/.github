@@ -1,6 +1,6 @@
-# simpsonm09-org GitHub defaults
+# simpsonm09-projects GitHub defaults
 
-Public community defaults for repositories owned by [simpsonm09-org](https://github.com/simpsonm09-org).
+Public community defaults for repositories owned by [simpsonm09-projects](https://github.com/simpsonm09-projects).
 
 The organization overview is maintained in `profile/README.md`.
 
@@ -13,7 +13,7 @@ The organization overview is maintained in `profile/README.md`.
 
 GitHub uses supported defaults when a repository owned by this account has no local equivalent. Local files take precedence. Defaults are not copied into clones, and defaults from an upstream organization do not automatically extend to forks owned by another account.
 
-Fleet CI, checks, templates, and governance remain in [repo-standard](https://github.com/simpsonm09-org/simpsonm09-repo-standard), with membership tracked in [repo-catalog](https://github.com/simpsonm09-org/simpsonm09-repo-catalog). These defaults do not replace the explicit files required by that standard.
+Fleet CI, checks, templates, and governance remain in [repo-standard](https://github.com/simpsonm09-projects/simpsonm09-repo-standard), with membership tracked in [repo-catalog](https://github.com/simpsonm09-projects/simpsonm09-repo-catalog). These defaults do not replace the explicit files required by that standard.
 
 Workflows, branch protection, repository settings, and agent instructions require explicit configuration. Merely placing them here does not apply them across the account.
 
