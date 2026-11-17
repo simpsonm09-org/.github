@@ -44,9 +44,9 @@ The current org and personal plugins use CLI integrations and contribute no MCP 
 
 ## Earlier and archived work
 
-- [steam_wishlist_cleanup](https://github.com/simpsonm09-org/steam_wishlist_cleanup): compares wishlists with games available through friends or family.
-- [pdf_field_automation_acrobat](https://github.com/simpsonm09-org/pdf_field_automation_acrobat): adds fields through Acrobat's JavaScript API.
-- [The_Gaming_Index_Video_Game_Database_Final_Capstone](https://github.com/simpsonm09-org/The_Gaming_Index_Video_Game_Database_Final_Capstone): is the archived capstone project.
+- [steam-wishlist-cleanup](https://github.com/simpsonm09-projects/steam-wishlist-cleanup): compares wishlists with games available through friends or family.
+- [pdf-field-automation-acrobat](https://github.com/simpsonm09-projects/pdf-field-automation-acrobat): adds fields through Acrobat's JavaScript API.
+- [the-gaming-index-video-game-database-final-capstone](https://github.com/simpsonm09-projects/the-gaming-index-video-game-database-final-capstone): is the archived capstone project.
 - [pstack-opencode-plugin](https://github.com/simpsonm09-org/pstack-opencode-plugin): is the archived adapter, superseded by the pstack-claude base layer.
 
 ## Profile and community
