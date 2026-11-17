@@ -2,7 +2,7 @@
 
 Personal projects and developer tooling by [Max Simpson](https://github.com/simpsonm09).
 
-This organization holds the original repositories. Development happens in personal forks under [@simpsonm09](https://github.com/simpsonm09), with pull requests back to the originals.
+This organization holds the repositories. Development happens on branches in these repositories, and pull requests merge into `main` here; work does not go through personal forks.
 
 ## Repository standards
 
