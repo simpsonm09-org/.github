@@ -13,7 +13,7 @@ This organization holds the repositories. Development happens on branches in the
 ## AI development
 
 - [maxstack](https://github.com/simpsonm09-projects/simpsonm09-maxstack): composes and installs the workspace AI layers for OpenCode, Claude Code, GitHub Copilot CLI, and Pi, used through T3 Code. The model is selected in the harness.
-- [simpsonm09/pstack-claude](https://github.com/simpsonm09/pstack-claude): fork of michael-denyer/pstack-claude that supplies the PStack base layer. The layer order is PStack, then the org layer, then the personal layer.
+- [simpsonm09/pstack-max](https://github.com/simpsonm09/pstack-max): fork of michael-denyer/pstack-claude that supplies the PStack base layer. The layer order is PStack, then the org layer, then the personal layer.
 - [org-ai-plugin](https://github.com/simpsonm09-projects/simpsonm09-org-ai-plugin): supplies portable skills, integration guidance, and the shared agent-access gate.
 - [personal-ai-plugin](https://github.com/simpsonm09-projects/simpsonm09-personal-ai-plugin): supplies personal preferences, skills, and integration guidance for services such as Discord and email.
 
@@ -47,7 +47,7 @@ The current org and personal plugins use CLI integrations and contribute no MCP 
 - [steam-wishlist-cleanup](https://github.com/simpsonm09-projects/steam-wishlist-cleanup): compares wishlists with games available through friends or family.
 - [pdf-field-automation-acrobat](https://github.com/simpsonm09-projects/pdf-field-automation-acrobat): adds fields through Acrobat's JavaScript API.
 - [the-gaming-index-video-game-database-final-capstone](https://github.com/simpsonm09-projects/the-gaming-index-video-game-database-final-capstone): is the archived capstone project.
-- [pstack-opencode-plugin](https://github.com/simpsonm09-projects/pstack-opencode-plugin): is the archived adapter, superseded by the pstack-claude base layer.
+- [pstack-opencode-plugin](https://github.com/simpsonm09-projects/pstack-opencode-plugin): is the archived adapter, superseded by the pstack-max base layer.
 
 ## Profile and community
 
