@@ -6,16 +6,16 @@ This organization holds the repositories. Development happens on branches in the
 
 ## Repository standards
 
-- [repo-standard](https://github.com/simpsonm09-projects/simpsonm09-repo-standard): owns reusable CI, linting, security scanning, conformance checks, and branch governance.
+- [repo-standard](https://github.com/simpsonm09-projects/repo-standard): owns reusable CI, linting, security scanning, conformance checks, and branch governance.
 - [repo-template](https://github.com/simpsonm09-projects/repo-template): is the starting point for new projects: a layered Kotlin and Spring Boot service wired to the standard.
 - [repo-catalog](https://github.com/simpsonm09-projects/repo-catalog): records fleet membership, adoption policy, and agent access intent.
 
 ## AI development
 
-- [maxstack](https://github.com/simpsonm09-projects/simpsonm09-maxstack): composes and installs the workspace AI layers for OpenCode, Claude Code, GitHub Copilot CLI, and Pi, used through T3 Code. The model is selected in the harness.
+- [maxstack](https://github.com/simpsonm09-projects/maxstack): composes and installs the workspace AI layers for OpenCode, Claude Code, GitHub Copilot CLI, and Pi, used through T3 Code. The model is selected in the harness.
 - [simpsonm09/pstack-max](https://github.com/simpsonm09/pstack-max): fork of michael-denyer/pstack-claude that supplies the PStack base layer. The layer order is PStack, then the org layer, then the personal layer.
-- [org-ai-plugin](https://github.com/simpsonm09-projects/simpsonm09-org-ai-plugin): supplies portable skills, integration guidance, and the shared agent-access gate.
-- [personal-ai-plugin](https://github.com/simpsonm09-projects/simpsonm09-personal-ai-plugin): supplies personal preferences, skills, and integration guidance for services such as Discord and email.
+- [org-ai-plugin](https://github.com/simpsonm09-projects/org-ai-plugin): supplies portable skills, integration guidance, and the shared agent-access gate.
+- [personal-ai-plugin](https://github.com/simpsonm09-projects/personal-ai-plugin): supplies personal preferences, skills, and integration guidance for services such as Discord and email.
 
 The current org and personal plugins use CLI integrations and contribute no MCP server.
 
