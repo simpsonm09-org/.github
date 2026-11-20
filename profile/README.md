@@ -21,26 +21,26 @@ The current org and personal plugins use CLI integrations and contribute no MCP 
 
 ## Personal integrations and homelab
 
-- [openclaw-homelab](https://github.com/simpsonm09-projects/simpsonm09-openclaw-homelab): holds configuration, validation, and deployment runbooks for a self-hosted AI gateway. It is currently a scaffold; it does not install or run OpenClaw.
+- [openclaw-homelab](https://github.com/simpsonm09-projects/openclaw-homelab): holds configuration, validation, and deployment runbooks for a self-hosted AI gateway. It is currently a scaffold; it does not install or run OpenClaw.
 
 ## Workstation and machines
 
 - [dev-setup](https://github.com/simpsonm09-projects/simpsonm09-dev-setup): owns workstation tools, machine setup, local services, secrets loaders, and Agent Vault wrappers.
-- [machine-inventory](https://github.com/simpsonm09-projects/simpsonm09-machine-inventory): records machine classes, counts, and capabilities without identifying devices or people.
+- [machine-inventory](https://github.com/simpsonm09-projects/machine-inventory): records machine classes, counts, and capabilities without identifying devices or people.
 
 ## API and test tooling
 
-- [postman-test-utils](https://github.com/simpsonm09-projects/simpsonm09-postman-test-utils): run collections with newman, resolve secrets, and provide shared response validation.
-- [playwright-api-wrapper](https://github.com/simpsonm09-projects/simpsonm09-playwright-api-wrapper): exposes declarative browser scenarios through an HTTP API for Postman, newman, and CI.
+- [postman-test-utils](https://github.com/simpsonm09-projects/postman-test-utils): run collections with newman, resolve secrets, and provide shared response validation.
+- [playwright-api-wrapper](https://github.com/simpsonm09-projects/playwright-api-wrapper): exposes declarative browser scenarios through an HTTP API for Postman, newman, and CI.
 
 ## Examples and conformance
 
-- [browser-calculator](https://github.com/simpsonm09-projects/simpsonm09-browser-calculator): is a Fastify application with an arithmetic evaluator and a stateless contact form.
-- [pokeapi-wrapper](https://github.com/simpsonm09-projects/simpsonm09-pokeapi-wrapper): is a FastAPI service and reference implementation for generated OpenAPI contracts.
-- [fixture-go](https://github.com/simpsonm09-projects/simpsonm09-fixture-go): Go item CRUD fixture that validates the fleet framework and its agent-access levels.
-- [fixture-rust](https://github.com/simpsonm09-projects/simpsonm09-fixture-rust): Rust item CRUD fixture that validates the fleet framework and its agent-access levels.
-- [fixture-dotnet](https://github.com/simpsonm09-projects/simpsonm09-fixture-dotnet): .NET item CRUD fixture that validates the fleet framework and its agent-access levels.
-- [fixture-nest](https://github.com/simpsonm09-projects/simpsonm09-fixture-nest): NestJS item CRUD fixture that validates the fleet framework and its agent-access levels.
+- [browser-calculator](https://github.com/simpsonm09-projects/browser-calculator): is a Fastify application with an arithmetic evaluator and a stateless contact form.
+- [pokeapi-wrapper](https://github.com/simpsonm09-projects/pokeapi-wrapper): is a FastAPI service and reference implementation for generated OpenAPI contracts.
+- [fixture-go](https://github.com/simpsonm09-projects/fixture-go): Go item CRUD fixture that validates the fleet framework and its agent-access levels.
+- [fixture-rust](https://github.com/simpsonm09-projects/fixture-rust): Rust item CRUD fixture that validates the fleet framework and its agent-access levels.
+- [fixture-dotnet](https://github.com/simpsonm09-projects/fixture-dotnet): .NET item CRUD fixture that validates the fleet framework and its agent-access levels.
+- [fixture-nest](https://github.com/simpsonm09-projects/fixture-nest): NestJS item CRUD fixture that validates the fleet framework and its agent-access levels.
 
 ## Earlier and archived work
 
