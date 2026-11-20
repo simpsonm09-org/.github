@@ -7,7 +7,7 @@ This organization holds the repositories. Development happens on branches in the
 ## Repository standards
 
 - [repo-standard](https://github.com/simpsonm09-projects/simpsonm09-repo-standard): owns reusable CI, linting, security scanning, conformance checks, and branch governance.
-- [repo-template](https://github.com/simpsonm09-projects/simpsonm09-repo-template): is the starting point for new projects: a layered Kotlin and Spring Boot service wired to the standard.
+- [repo-template](https://github.com/simpsonm09-projects/repo-template): is the starting point for new projects: a layered Kotlin and Spring Boot service wired to the standard.
 - [repo-catalog](https://github.com/simpsonm09-projects/simpsonm09-repo-catalog): records fleet membership, adoption policy, and agent access intent.
 
 ## AI development
