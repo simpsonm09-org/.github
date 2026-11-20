@@ -25,7 +25,7 @@ The current org and personal plugins use CLI integrations and contribute no MCP 
 
 ## Workstation and machines
 
-- [dev-setup](https://github.com/simpsonm09-projects/simpsonm09-dev-setup): owns workstation tools, machine setup, local services, secrets loaders, and Agent Vault wrappers.
+- [dev-setup](https://github.com/simpsonm09-projects/dev-setup): owns workstation tools, machine setup, local services, secrets loaders, and Agent Vault wrappers.
 - [machine-inventory](https://github.com/simpsonm09-projects/machine-inventory): records machine classes, counts, and capabilities without identifying devices or people.
 
 ## API and test tooling
